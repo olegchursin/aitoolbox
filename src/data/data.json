@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Toolkit",
+    "description": "Easy way to generate and use AI plugins for 🦜 🔗 LangChain",
+    "category": "Coding",
+    "website": "https://toolkit.club",
+    "logo": "https://em-content.zobj.net/thumbs/120/apple/354/toolbox_1f9f0.png",
+    "repo": "",
+    "year": 2023
+  },
+  {
+    "name": "Cohesive",
+    "description": "Powerful AI editor for content creation",
+    "category": "Content Creation",
+    "website": "https://cohesive.so",
+    "logo": "https://ph-files.imgix.net/b79e291a-e0c8-41fe-877f-c45727a473e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=72&h=72&fit=crop&bg=0fff&dpr=1",
+    "repo": "",
+    "year": 2023
+  },
+  {
+    "name": "TensorFlow",
+    "description": "Open-source software library for dataflow and differentiable programming across a range of tasks",
+    "category": "ML Framework",
+    "website": "https://tensorflow.org",
+    "logo": "https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png",
+    "repo": "https://github.com/tensorflow/tensorflow",
+    "year": 2015
+  },
+  {
+    "name": "Keras",
+    "description": "Open-source software library for building neural networks",
+    "category": "ML Framework",
+    "website": "https://keras.io",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png",
+    "repo": "https://github.com/keras-team/keras",
+    "year": 2015
+  },
+  {
+    "name": "PyTorch",
+    "description": "Open-source software library for machine learning based on the Torch library",
+    "category": "ML Framework",
+    "website": "https://pytorch.org",
+    "logo": "https://pytorch.org/assets/images/pytorch-logo.png",
+    "repo": "https://github.com/pytorch/pytorch",
+    "year": 2016
+  },
+  {
+    "name": "SpaCy",
+    "description": "Free, open-source library for advanced NLP (NLP) in Python",
+    "category": "NLP",
+    "website": "https://spacy.io",
+    "logo": "https://spacy.io/icons/icon-256x256.png",
+    "repo": "https://github.com/explosion/spaCy",
+    "year": 2015
+  },
+  {
+    "name": "NLTK",
+    "description": "Open-source library for NLP (NLP) in Python",
+    "category": "NLP",
+    "website": "https://nltk.org",
+    "logo": "https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png",
+    "repo": "https://github.com/nltk/nltk",
+    "year": 2001
+  },
+  {
+    "name": "OpenCV",
+    "description": "Open-source computer vision and machine learning software library",
+    "category": "Computer Vision",
+    "website": "https://opencv.org",
+    "logo": "https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png",
+    "repo": "https://github.com/opencv/opencv",
+    "year": 2000
+  },
+  {
+    "name": "Darknet",
+    "description": "Open-source neural network framework",
+    "category": "Computer Vision",
+    "website": "https://pjreddie.com/darknet",
+    "logo": "https://pjreddie.com/static/img/darknet.png",
+    "repo": "https://github.com/pjreddie/darknet",
+    "year": 2013
+  },
+  {
+    "name": "Hugging Face Transformers",
+    "description": "Open-source library for NLP (NLP), Natural Language Generation (NLG) and Natural Language Understanding (NLU)",
+    "category": "NLP",
+    "website": "https://huggingface.co/transformers",
+    "logo": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+    "repo": "https://github.com/huggingface/transformers",
+    "year": 2018
+  },
+  {
+    "name": "Streamlit",
+    "description": "Open-source app framework for Machine Learning and Data Science teams",
+    "category": "Data Science",
+    "website": "https://streamlit.io",
+    "logo": "https://docs.streamlit.io/logo.svg",
+    "repo": "https://github.com/streamlit/streamlit",
+    "year": 2019
+  }
+]

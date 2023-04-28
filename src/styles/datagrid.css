@@ -1,0 +1,5 @@
+.ag-theme-alpine .ag-root-wrapper,
+.ag-theme-alpine-dark .ag-root-wrapper {
+  border-radius: 12px;
+  overflow: hidden;
+}
